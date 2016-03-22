@@ -18,7 +18,7 @@ class RoboHashProvider extends Base_Provider
     /**
      * image-url generator to a Robohash roboter avatar
      *
-     * @param int|string|array $size Size can be an array with width and height or a string like 100x100
+     * @param string|array $size Size can be an array with width and height or a string like 100x100
      * @param string $text Optional: Is used to generate the unique avatar.
      * @param string $format Optional: File-Extension. Possible are jpg, gif and png. Default ist png
      * @param string $set Optional: Defines the set of roboters to use. Possible are set2 & set3. Default ist set1
