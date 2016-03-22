@@ -1,0 +1,29 @@
+{
+  "name": "Krid/RoboHashProvider",
+  "description": "RoboHash provider for Faker",
+  "minimum-stability": "beta",
+  "license": "MIT",
+  "keywords": [
+    "faker",
+    "robohash",
+    "avatar",
+    "provider"
+  ],
+  "authors": [
+    {
+      "name": "Dirk Diebel",
+      "email": "phpmedia@gmail.com"
+    }
+  ],
+  "require": {
+    "fzaninotto/faker": "~1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Phpmedia\\RoboHashProvider\\": "."
+    }
+  }
+}
