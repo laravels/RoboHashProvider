@@ -59,6 +59,10 @@ class RoboHashProviderTest extends PHPUnit_Framework_TestCase
                 '100x100', 'dummy', '', '', 'bg1',
             ],
             [
+                'dummy.png?size=100x100',
+                '100x100', 'dummy', '', '', 'fake',
+            ],
+            [
                 'dummy.gif?size=100x100&set=set2&bgset=bg1',
                 '100x100', 'dummy', 'gif', 'set2', 'bg1',
             ],
