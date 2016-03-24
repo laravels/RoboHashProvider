@@ -1,5 +1,5 @@
 {
-  "name": "Phpmedia/RoboHashProvider",
+  "name": "phpmedia/faker-robohash-provider",
   "description": "RoboHash provider for Faker",
   "minimum-stability": "beta",
   "license": "MIT",
