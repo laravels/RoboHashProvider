@@ -1,5 +1,5 @@
 {
-  "name": "Krid/RoboHashProvider",
+  "name": "Phpmedia/RoboHashProvider",
   "description": "RoboHash provider for Faker",
   "minimum-stability": "beta",
   "license": "MIT",
