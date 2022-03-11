@@ -10,7 +10,7 @@
 Install RoboHashProvider via [Composer](http://getcomposer.org/).
 
 ```
-$ composer require phpmedia/faker-robohash-provider
+$ composer require laravels/faker-robohash-provider
 ```
 
 ## Howto use
